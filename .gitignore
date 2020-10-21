@@ -1,0 +1,5 @@
+.ignore
+*.json
+config.py
+__pycache__
+*.ipynb
